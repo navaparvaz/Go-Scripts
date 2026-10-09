@@ -1,0 +1,4 @@
+INFO service ready
+ERROR payment request failed
+INFO errorless request completed
+PANIC worker stopped
